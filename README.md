@@ -1,5 +1,6 @@
-## Hi there 👋
+Hi, on this account I just mess around and do random stuff on my profile, I wouldn't call myself a programmer, but I'm someone who wants to learn how to program.  
 
+Ok, idk how to use markdown someone pls help me
 <!--
 **kittyteggie/kittyteggie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
